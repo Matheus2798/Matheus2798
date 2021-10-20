@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Matheus2798
+- 👋 Hi, I’m Matheus da Silva Ferreira, or just Matheus Ferreira.
 - 👀 I’m interested in bots! I want to learn everything about them.
-- 🌱 I’m currently learning development mobile with React Native.
-- 📫 You can send me a message in whatsapp +55 (13) 92000-4406. 😁 
+- 🌱 I’m currently learning development backend with NodeJS, Express, TypeORM and I'm experiencing Prisma.
+- 📫 You can send me a message in whatsapp +55 (13) 92000-4406.
 
 
