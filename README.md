@@ -29,7 +29,6 @@ I'm improving my backend skills with Java, Springboot, Hibernate making REST API
 
 ## 📭 Feel free to send me a message! 
 
-## 
 <a href="https://www.linkedin.com/in/matheus-da-silva-ferreira-84b83519a/"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="30" height="30" />
 </a>&nbsp;&nbsp;&nbsp;
