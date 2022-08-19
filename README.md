@@ -25,7 +25,7 @@ Hello, my name is Matheus, and you can call me **Matheus** or **Ferreira**. Nice
 
 ## What I'm learning now 👨🏻‍💻
 
-I'm improving my backend skills with Java, Springboot, Hibernate making REST API, and improving my frontend skills making my first personal website with React.
+I'm improving my React skills with Typescript and Atomic Design. Working on https://github.com/Matheus3Ferreira/RedLight
 
 ## 📭 Feel free to send me a message! 
 
