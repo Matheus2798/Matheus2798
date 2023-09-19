@@ -1,6 +1,7 @@
 # Web developer
 
-Hello, my name is Matheus, and you can call me **Matheus** or **Ferreira**. Nice to meet you. 👋
+Hello, I'm Matheus, glad to see you here. 👋
+After a long time, I'm on my way to realize my dream and I'll work with development. I'm working hard. 
 
 ## 🚀 My stack
 
@@ -24,8 +25,10 @@ Hello, my name is Matheus, and you can call me **Matheus** or **Ferreira**. Nice
     - MySQL
 
 ## What I'm learning now 👨🏻‍💻
+I'm working to remember everything about **authentication, authorization, NoSQL/SQL databases** and after some basic projects, I'll make my real portfolio.
 
-I'm improving my React skills with Typescript and Atomic Design. Working on https://github.com/Matheus3Ferreira/RedLight
+## Why I didn't commit for a long time?
+I've spent a long time doing nothing and giving up everything, being more and more weak in my confort zone. Now I come back, getting stronger day by day, working on my time to get a good job and give my family everything they deserve.
 
 ## 📭 Feel free to send me a message! 
 
