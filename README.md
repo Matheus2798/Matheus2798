@@ -7,12 +7,12 @@ Check out my portfolio. 👉
 
 - Programming languages
     - JavaScript
-    - TypeScript
-- Frontend
-    HTML5, CSS3, ReactJS
-- Backend
-    - NodeJS, Express, TypeORM, Mongoose, Prisma
-- Database
+    - TypeScript</br>
+- Frontend</br>
+    HTML5, CSS3, ReactJS</br>
+- Backend</br>
+    - NodeJS, Express, TypeORM, Mongoose, Prisma</br>
+- Database</br>
     SQL Server, PostgreSQL, MongoDB
 
 ## 📭 Feel free to send me a message! 
